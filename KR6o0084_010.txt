@@ -1,18 +1,17 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 21:00:40.303359
+#+DATE: 2015-08-30 21:00:42.170171
 #+TITLE: 釋摩訶衍論
 #+PROPERTY: CBETA_ID T32n1668
 #+PROPERTY: ID KR6o0084
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 32, No. 1668
 #+PROPERTY: VOL 32
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@GONG
 #+PROPERTY: LASTPB <pb:KR6o0084_T_000-0591c>¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6o0084_T_010-0664b> 
 #+PROPERTY: JUAN 10
 ¶
-
- 釋摩訶衍論卷第十¶
+釋摩訶衍論卷第十¶
 ¶
 龍樹菩薩造¶
 姚秦三藏筏提摩多奉　詔譯¶
